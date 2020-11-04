@@ -1,0 +1,5 @@
+dependencies {
+    implementation "com.google.inject:guice:$guice_version"
+    implementation "io.ktor:ktor-gson:$ktor_version"
+
+}
